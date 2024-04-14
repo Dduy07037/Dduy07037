@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactJS"/> 
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/> 
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-    <a href="https://tuan-dang05.github.io/tuan_dang_profile/" target="_blank">
+    <a href="https://dduy07037.github.io/DuyPortfolio/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/> 
     </a>
 <!--     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) -->
@@ -73,18 +73,18 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Tuan_dang">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuan-Dang05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <a href="#" title="Duy_Dinh">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dduy07037&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   </a>
-  <a href="#" title="Tuan_dang">
-    <img align="right" width="434" src="https://github-readme-streak-stats.herokuapp.com/?user=Tuan-Dang05&theme=dark&hide_border=false" />
+  <a href="#" title="Duy_Dinh">
+    <img align="right" width="434" src="https://github-readme-streak-stats.herokuapp.com/?user=Dduy07037&theme=dark&hide_border=false" />
   </a>
 </div>
 <hr>
 <br>
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<a href="#" title="Tuan_dang">
-    <img  align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=Tuan-Dang05&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+<a href="#" title="Duy_Dinh">
+    <img  align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=Dduy07037&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
   </a>
 
 <h3 align="center">
